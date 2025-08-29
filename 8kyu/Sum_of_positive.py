@@ -1,3 +1,9 @@
+#new code
+
+
+
+# old code
+"""
 def positive_sum(arr):
     res = []
     for i in arr:
@@ -5,5 +11,7 @@ def positive_sum(arr):
             res.append(i)
     total = sum(res)
     return total
+"""
 
-# https://www.codewars.com/kata/5715eaedb436cf5606000381/solutions/python?filter=me&sort=best_practice&invalids=false
+# 
+
