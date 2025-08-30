@@ -1,7 +1,8 @@
 #new code
+def positive_sum(arr):
+    return sum(x for x in arr)
 
-
-
+    
 # old code
 """
 def positive_sum(arr):
